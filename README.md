@@ -10,9 +10,11 @@ Prueba initiumsoft<p align="center"><a href="https://laravel.com" target="_blank
 ## Acerca de esta prueba
 
 Esta prueba utiliza un framework PHP > Laravel.
-• Control de version en GitHub
-• Endpoint http://localhost:8000/short-url donde se introduce (demo) una url para acortarla usando un acortador de urls (tinyurl)
-• Implementa autorización tipo "Bearer Token" donde cualquier token que cumpla con el problema de los paréntesis (descrito a continuación) es autorizado.
+
+- [Control de version en GitHub](https://github.com/akenateb/initiumsoft).
+- [Endpoint (local) donde se introduce (demo) una url para acortarla usando un acortador de urls (tinyurl)](http://localhost:8000/short-url).
+
+Implementa autorización tipo "Bearer Token" donde cualquier token que cumpla con el problema de los paréntesis (descrito a continuación) es autorizado.
 
 ## Acerca de Laravel
 
