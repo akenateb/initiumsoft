@@ -1,4 +1,4 @@
-ParenthesesTest<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Prueba initiumsoft<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -6,6 +6,17 @@ ParenthesesTest<p align="center"><a href="https://laravel.com" target="_blank"><
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+## Acerca de esta prueba
+
+Esta prueba utiliza un framework PHP > Laravel.
+• Control de version en GitHub
+• Endpoint http://localhost:8000/short-url donde se introduce (demo) una url para acortarla usando un acortador de urls (tinyurl)
+• Implementa autorización tipo "Bearer Token" donde cualquier token que cumpla con el problema de los paréntesis (descrito a continuación) es autorizado.
+
+## Acerca de Laravel
+
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 ## About Laravel
 
